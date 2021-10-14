@@ -1,0 +1,1297 @@
+fileFormatVersion: 2
+guid: 12117c31e50354b4fafb9eac4620c2cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6936819614362206899
+    second: top_left
+  - first:
+      213: 2930105722557967472
+    second: horizontal
+  - first:
+      213: -4435566350002279317
+    second: top_right
+  - first:
+      213: 6242635901967431023
+    second: t_top
+  - first:
+      213: -5782906600925083298
+    second: vertical_left
+  - first:
+      213: 8153018598555667114
+    second: floor
+  - first:
+      213: -882661253664798651
+    second: vertical_right
+  - first:
+      213: 3381063928809947938
+    second: t_left
+  - first:
+      213: 3482304430461857264
+    second: cross
+  - first:
+      213: 1546040917383674451
+    second: t_right
+  - first:
+      213: -6645552689076310944
+    second: bottom_left
+  - first:
+      213: 1882859523667423866
+    second: horizontal_bottom
+  - first:
+      213: 4927297053769472846
+    second: bottom_right
+  - first:
+      213: -2668625618996323990
+    second: t_bottom
+  - first:
+      213: -7875835743939954721
+    second: top_left
+  - first:
+      213: 4554877984357026981
+    second: horizontal
+  - first:
+      213: -1735138578323622715
+    second: top_right
+  - first:
+      213: -6231312725926335193
+    second: t_top
+  - first:
+      213: -1298256231257339877
+    second: vertical_left
+  - first:
+      213: -8231895815551350276
+    second: floor
+  - first:
+      213: -4230204961298931523
+    second: t_left
+  - first:
+      213: 3684365337060016939
+    second: cross
+  - first:
+      213: -3911518612608008900
+    second: t_right
+  - first:
+      213: -226521382248731549
+    second: bottom_left
+  - first:
+      213: 6384436628500019732
+    second: bottom_right
+  - first:
+      213: -8717255601342065014
+    second: t_bottom
+  - first:
+      213: -7875835743939954721
+    second: top_left
+  - first:
+      213: 4554877984357026981
+    second: horizontal
+  - first:
+      213: -1735138578323622715
+    second: top_right
+  - first:
+      213: -6231312725926335193
+    second: t_top
+  - first:
+      213: -1298256231257339877
+    second: vertial
+  - first:
+      213: -8231895815551350276
+    second: floor
+  - first:
+      213: -4230204961298931523
+    second: t_left
+  - first:
+      213: 3684365337060016939
+    second: cross
+  - first:
+      213: -3911518612608008900
+    second: t_right
+  - first:
+      213: -226521382248731549
+    second: bottom_left
+  - first:
+      213: 6384436628500019732
+    second: bottom_right
+  - first:
+      213: -8717255601342065014
+    second: t_bottom
+  - first:
+      213: -7875835743939954721
+    second: top_left
+  - first:
+      213: -6936819614362206899
+    second: top_left
+  - first:
+      213: 4554877984357026981
+    second: horizontal
+  - first:
+      213: -1735138578323622715
+    second: top_right
+  - first:
+      213: -6231312725926335193
+    second: t_top
+  - first:
+      213: -5782906600925083298
+    second: vertical
+  - first:
+      213: -8231895815551350276
+    second: floor
+  - first:
+      213: -882661253664798651
+    second: green_vertical
+  - first:
+      213: -4230204961298931523
+    second: t_left
+  - first:
+      213: 3684365337060016939
+    second: cross
+  - first:
+      213: -3911518612608008900
+    second: t_right
+  - first:
+      213: -226521382248731549
+    second: bottom_left
+  - first:
+      213: 1882859523667423866
+    second: green_t_udl
+  - first:
+      213: 6384436628500019732
+    second: bottom_right
+  - first:
+      213: -8717255601342065014
+    second: t_bottom
+  - first:
+      213: -7875835743939954721
+    second: top_left
+  - first:
+      213: 4554877984357026981
+    second: horizontal
+  - first:
+      213: -1735138578323622715
+    second: top_right
+  - first:
+      213: -6231312725926335193
+    second: t_top
+  - first:
+      213: -1298256231257339877
+    second: vertical
+  - first:
+      213: -8231895815551350276
+    second: floor
+  - first:
+      213: -4230204961298931523
+    second: t_left
+  - first:
+      213: 3684365337060016939
+    second: cross
+  - first:
+      213: -3911518612608008900
+    second: t_right
+  - first:
+      213: -226521382248731549
+    second: bottom_left
+  - first:
+      213: 6384436628500019732
+    second: bottom_right
+  - first:
+      213: -8717255601342065014
+    second: t_bottom
+  - first:
+      213: -7875835743939954721
+    second: top_left
+  - first:
+      213: 2930105722557967472
+    second: horizontal
+  - first:
+      213: -4435566350002279317
+    second: top_right
+  - first:
+      213: 6242635901967431023
+    second: t_top
+  - first:
+      213: -5782906600925083298
+    second: vertical
+  - first:
+      213: -8231895815551350276
+    second: floor
+  - first:
+      213: -2192204185616156914
+    second: green_vertical
+  - first:
+      213: 3381063928809947938
+    second: t_left
+  - first:
+      213: 3482304430461857264
+    second: cross
+  - first:
+      213: 1546040917383674451
+    second: t_right
+  - first:
+      213: -6645552689076310944
+    second: bottom_left
+  - first:
+      213: 7394286698837806293
+    second: green_t_udl
+  - first:
+      213: 4927297053769472846
+    second: bottom_right
+  - first:
+      213: -2668625618996323990
+    second: t_bottom
+  - first:
+      213: -7875835743939954721
+    second: green_corner_dr
+  - first:
+      213: -8231895815551350276
+    second: green_floor_2
+  - first:
+      213: -3018703912876367926
+    second: floor_2
+  - first:
+      213: -5371173354186874189
+    second: dungen_tileset_15
+  - first:
+      213: -6936819614362206899
+    second: green_corner_dr
+  - first:
+      213: 4554877984357026981
+    second: green_horizontal
+  - first:
+      213: -1735138578323622715
+    second: green_corner_dl
+  - first:
+      213: -6231312725926335193
+    second: green_floor_1
+  - first:
+      213: -1298256231257339877
+    second: green_t_dlr
+  - first:
+      213: 8153018598555667114
+    second: green_floor_2
+  - first:
+      213: -4230204961298931523
+    second: green_floor_0
+  - first:
+      213: 3684365337060016939
+    second: dungen_tileset_8
+  - first:
+      213: -3911518612608008900
+    second: green_t_udr
+  - first:
+      213: -226521382248731549
+    second: green_cross
+  - first:
+      213: 6384436628500019732
+    second: green_corner_ur
+  - first:
+      213: -8717255601342065014
+    second: dungen_tileset_13
+  - first:
+      213: -6694092153255862562
+    second: green_corner_ul
+  - first:
+      213: 256046186830731772
+    second: dungen_tileset_15
+  - first:
+      213: 7486071060330306099
+    second: green_t_ulr
+  - first:
+      213: 8515410446101948460
+    second: dungen_tileset_17
+  - first:
+      213: 2930105722557967472
+    second: green_floor_2
+  - first:
+      213: -6936819614362206899
+    second: green_corner_dr
+  - first:
+      213: -4850861312464376366
+    second: green_horizontal
+  - first:
+      213: -4435566350002279317
+    second: green_corner_dl
+  - first:
+      213: 6242635901967431023
+    second: green_floor_1
+  - first:
+      213: -5782906600925083298
+    second: green_t_dlr
+  - first:
+      213: -2192204185616156914
+    second: green_vertical
+  - first:
+      213: 3381063928809947938
+    second: green_floor_0
+  - first:
+      213: 1546040917383674451
+    second: green_t_udr
+  - first:
+      213: -6645552689076310944
+    second: green_cross
+  - first:
+      213: 7394286698837806293
+    second: green_t_udl
+  - first:
+      213: 4927297053769472846
+    second: green_corner_ur
+  - first:
+      213: -3018703912876367926
+    second: green_corner_ul
+  - first:
+      213: 5257236297808175982
+    second: green_t_ulr
+  - first:
+      213: -7236788692853859949
+    second: dungen_tileset_18
+  - first:
+      213: -1881820738085129989
+    second: dungen_tileset_19
+  - first:
+      213: 3022457600054870354
+    second: dungen_tileset_20
+  - first:
+      213: 5759730232730013372
+    second: dungen_tileset_21
+  - first:
+      213: -3840402357967562296
+    second: dungen_tileset_22
+  - first:
+      213: 3601458190295758783
+    second: dungen_tileset_23
+  - first:
+      213: -1735858525773262206
+    second: dungen_tileset_24
+  - first:
+      213: -7375145470409136476
+    second: dungen_tileset_25
+  - first:
+      213: -1863967219212938888
+    second: dungen_tileset_26
+  - first:
+      213: -5886601637356392467
+    second: dungen_tileset_27
+  - first:
+      213: -8580844218821300379
+    second: dungen_tileset_28
+  - first:
+      213: -7633313356775992088
+    second: dungen_tileset_29
+  - first:
+      213: 5863812068419236059
+    second: dungen_tileset_30
+  - first:
+      213: -2039782496534337055
+    second: dungen_tileset_31
+  - first:
+      213: 1907016826076096551
+    second: dungen_tileset_32
+  - first:
+      213: 2623227513713163727
+    second: dungen_tileset_33
+  - first:
+      213: 6821370242311855477
+    second: dungen_tileset_34
+  - first:
+      213: -949589918981470052
+    second: dungen_tileset_35
+  - first:
+      213: -6936819614362206899
+    second: green_corner_dr
+  - first:
+      213: 2930105722557967472
+    second: green_horizontal
+  - first:
+      213: -1735138578323622715
+    second: green_corner_dl
+  - first:
+      213: -6231312725926335193
+    second: green_floor_1
+  - first:
+      213: -1298256231257339877
+    second: green_t_dlr
+  - first:
+      213: -2192204185616156914
+    second: green_vertical
+  - first:
+      213: -4230204961298931523
+    second: green_floor_0
+  - first:
+      213: 3482304430461857264
+    second: dungen_tileset_8
+  - first:
+      213: -3911518612608008900
+    second: green_t_udr
+  - first:
+      213: -226521382248731549
+    second: green_cross
+  - first:
+      213: 1882859523667423866
+    second: green_t_udl
+  - first:
+      213: 6384436628500019732
+    second: green_corner_ur
+  - first:
+      213: -2668625618996323990
+    second: dungen_tileset_13
+  - first:
+      213: -6694092153255862562
+    second: green_corner_ul
+  - first:
+      213: 7486071060330306099
+    second: green_t_ulr
+  - first:
+      213: 7080350625210432257
+    second: dungen_tileset_17
+  - first:
+      213: 4434764521339771239
+    second: dungen_tileset_18
+  - first:
+      213: -5254284192464350359
+    second: dungen_tileset_19
+  - first:
+      213: -3263016776721929892
+    second: dungen_tileset_20
+  - first:
+      213: 5148905624307620675
+    second: dungen_tileset_21
+  - first:
+      213: -8189515907633336369
+    second: dungen_tileset_22
+  - first:
+      213: 735623306949523883
+    second: dungen_tileset_23
+  - first:
+      213: 3976037420032180993
+    second: dungen_tileset_24
+  - first:
+      213: -4684409709515503135
+    second: dungen_tileset_25
+  - first:
+      213: -8079600841835653584
+    second: dungen_tileset_26
+  - first:
+      213: 1777907572879904098
+    second: dungen_tileset_27
+  - first:
+      213: 7184940450072165488
+    second: dungen_tileset_28
+  - first:
+      213: 9186076391713493163
+    second: dungen_tileset_29
+  - first:
+      213: 2747685775432613267
+    second: dungen_tileset_30
+  - first:
+      213: 6805390943316656757
+    second: dungen_tileset_31
+  - first:
+      213: -5723861738909122422
+    second: dungen_tileset_32
+  - first:
+      213: -2733552093718534651
+    second: dungen_tileset_33
+  - first:
+      213: 4291108537378941598
+    second: dungen_tileset_34
+  - first:
+      213: -8426664409384968296
+    second: dungen_tileset_35
+  - first:
+      213: -6936819614362206899
+    second: green_corner_dr
+  - first:
+      213: 2930105722557967472
+    second: green_horizontal
+  - first:
+      213: -4435566350002279317
+    second: green_corner_dl
+  - first:
+      213: 6242635901967431023
+    second: green_floor_1
+  - first:
+      213: 8153018598555667114
+    second: green_floor_2
+  - first:
+      213: -2192204185616156914
+    second: green_vertical
+  - first:
+      213: 3381063928809947938
+    second: green_floor_0
+  - first:
+      213: 4927297053769472846
+    second: green_corner_ur
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green_corner_dr
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d7af640577bbf90800000000000000
+      internalID: -6936819614362206899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_vertical
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07793178e9b391e0800000000000000
+      internalID: -2192204185616156914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_horizontal
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c286b51a3d9a820800000000000000
+      internalID: 2930105722557967472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_t_dlr
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18087c06daabfde0800000000000000
+      internalID: -1298256231257339877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_floor_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa40160837552170800000000000000
+      internalID: 8153018598555667114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_t_udr
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dbb23cb8e77b9c0800000000000000
+      internalID: -3911518612608008900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_cross
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ca805c00c3bdcf0800000000000000
+      internalID: -226521382248731549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_t_udl
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72782ec2c2412a10800000000000000
+      internalID: 1882859523667423866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_corner_ul
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede547747aec913a0800000000000000
+      internalID: -6694092153255862562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_t_ulr
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ad15a67fdd3e760800000000000000
+      internalID: 7486071060330306099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76956f4f5d27b8d30800000000000000
+      internalID: 4434764521339771239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96356378d580517b0800000000000000
+      internalID: -5254284192464350359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59695f978f67b2d0800000000000000
+      internalID: -3263016776721929892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bddde9266947740800000000000000
+      internalID: 5148905624307620675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfaa130caef85e80800000000000000
+      internalID: -8189515907633336369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9793b0085753a00800000000000000
+      internalID: 735623306949523883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103cda2b7f8bd2730800000000000000
+      internalID: 3976037420032180993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e900f13032adfeb0800000000000000
+      internalID: -4684409709515503135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036507787dd7fdf80800000000000000
+      internalID: -8079600841835653584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dcbfc84856ca810800000000000000
+      internalID: 1777907572879904098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cf2ea954906b360800000000000000
+      internalID: 7184940450072165488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba05fafeecf7b7f70800000000000000
+      internalID: 9186076391713493163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dfd07a7adb12620800000000000000
+      internalID: 2747685775432613267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572cc06a10b917e50800000000000000
+      internalID: 6805390943316656757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804fd42312c090b0800000000000000
+      internalID: -5723861738909122422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a1ee8ad8701ad0800000000000000
+      internalID: -2733552093718534651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a2e1fba741d8b30800000000000000
+      internalID: 4291108537378941598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungen_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f9e25bd597e0b80800000000000000
+      internalID: -8426664409384968296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_corner_dl
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c2072c7e3b172c0800000000000000
+      internalID: -4435566350002279317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_floor_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f657ed6274c42a650800000000000000
+      internalID: 6242635901967431023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_floor_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2238a97cab3fbee20800000000000000
+      internalID: 3381063928809947938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_corner_ur
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b12c08096416440800000000000000
+      internalID: 4927297053769472846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cc8dab7bb4b3ab41939f6c35dd97117, type: 3}
+  m_Name: LegendSceptre
+  m_EditorClassIdentifier: 
+  Title: Legend Sceptre
+  Price: 2250
+  Icon: {fileID: -5940803466313601909, guid: 409991b78a16ad341a22a6ff88060c4b, type: 3}
+  Bullet: {fileID: 11400000, guid: 2116542d26b983349814e6ed637c5765, type: 2}
+  TimeBetweenShot: 0.1
+  Damage: 20
+  FireMode: 2

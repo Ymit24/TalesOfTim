@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f221c3076edc7840b02132c3490eca4, type: 3}
+  m_Name: SkeletonQuest
+  m_EditorClassIdentifier: 
+  Dialogue: {fileID: 11400000, guid: c808a9a755c7610488400fcded5e41a5, type: 2}
+  AwaitingCompletionDialogue: {fileID: 11400000, guid: 6aeef88c6d104bd458edc019c178135b,
+    type: 2}
+  CompletionDialogue: {fileID: 11400000, guid: d3a50e0b51204c6438705ff4218fdc77, type: 2}
+  RewardDialogue: {fileID: 11400000, guid: d7038b42844ab97439b74aaade35b8b7, type: 2}
+  AlreadyRewardedDialogue: {fileID: 11400000, guid: 4d4829100cdf42946b7efeffd8982e9d,
+    type: 2}
+  Objectives:
+  - {fileID: 11400000, guid: f13c95f096ad0ab46a8bf9ecf11ff9b6, type: 2}
+  RewardGold: 75
+  RewardXp: 30

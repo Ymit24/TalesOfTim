@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f221c3076edc7840b02132c3490eca4, type: 3}
+  m_Name: ChickenQuest
+  m_EditorClassIdentifier: 
+  Dialogue: {fileID: 11400000, guid: 1a144243a9db0a441b9eae89e478138c, type: 2}
+  AwaitingCompletionDialogue: {fileID: 11400000, guid: bb339dc5d20ce57408efc93b003de697,
+    type: 2}
+  CompletionDialogue: {fileID: 11400000, guid: fcfe4857b67ec904e829cd5bd0b9a8f7, type: 2}
+  RewardDialogue: {fileID: 11400000, guid: c51192f945d4a7b46957d7c4571d1686, type: 2}
+  AlreadyRewardedDialogue: {fileID: 11400000, guid: e06c74aaa6de7464cab8e4c20d04a209,
+    type: 2}
+  Objectives:
+  - {fileID: 11400000, guid: 24176f865acaa8543b123d31c57e76a0, type: 2}
+  RewardGold: 25
+  RewardXp: 10

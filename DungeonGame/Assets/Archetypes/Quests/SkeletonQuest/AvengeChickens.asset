@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0cdaf75872cc348aed180821d2353f, type: 3}
+  m_Name: AvengeChickens
+  m_EditorClassIdentifier: 
+  Title: Avenge Chickens
+  ActiveQuestListUIPrefab: {fileID: 7121588631783091985, guid: 7f9bf817cfcee6f42b7b84d192db85d7,
+    type: 3}
+  Target: {fileID: 11400000, guid: a12ddcea011059944b84eb8d2ed51d61, type: 2}
+  Count: 1

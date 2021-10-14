@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd48d94bcc2cfcf4ab60d9013d59f22a, type: 3}
+  m_Name: ForestShop
+  m_EditorClassIdentifier: 
+  Items:
+  - {fileID: 11400000, guid: f3fef07ba43635a41ab9764ff01312c6, type: 2}
+  - {fileID: 11400000, guid: 30487c4b91d51544d9c42892315480e7, type: 2}
+  - {fileID: 11400000, guid: e8107048da0753b4ca17eba074295cbd, type: 2}
+  - {fileID: 11400000, guid: b0791d2bc644738409789aeb2f33942b, type: 2}
+  ShopKeeperIcon: {fileID: 21300000, guid: 0df48a674c54dca43825e602aebb3fa8, type: 3}
+  Title: Forest Shop Placeee

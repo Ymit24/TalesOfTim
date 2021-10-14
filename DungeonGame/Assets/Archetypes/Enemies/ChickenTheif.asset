@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb09a45d28b499f46b06d5c431ec00e0, type: 3}
+  m_Name: ChickenTheif
+  m_EditorClassIdentifier: 
+  Health: 50
+  Prefab: {fileID: 340147898348718486, guid: caea8386b086d85409050e8621d69a24, type: 3}
+  BloodPrefab: {fileID: 5566311114894379018, guid: 08269c4d475ba464eb4f5f0017130d4d,
+    type: 3}
+  HitClip: {fileID: 8300000, guid: fcef7bcd413e6bf448d16bddb7c1ed98, type: 3}
+  DeathClip: {fileID: 8300000, guid: 3102eebcda8a60642af4f852323a3634, type: 3}
+  MoveSpeed: 3
+  DetectionRange: 20
+  AttackRange: 3
+  PreAttackTime: 1
+  AttackDuration: 0.25
+  AttackDamage: 17
+  EscapeDetectionRange: 30
+  XpDrop: 60
+  GoldDrop: 100
